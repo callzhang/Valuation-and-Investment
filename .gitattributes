@@ -5,7 +5,7 @@
 *.md text eol=lf encoding=utf-8
 
 # Audio files as binary
-*.m4a binary
+*.mp3 binary
 *.mp3 binary
 *.wav binary
 *.aac binary
