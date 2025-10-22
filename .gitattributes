@@ -1,0 +1,17 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Markdown files as text with UTF-8 encoding
+*.md text eol=lf encoding=utf-8
+
+# Audio files as binary
+*.m4a binary
+*.mp3 binary
+*.wav binary
+*.aac binary
+
+# Ensure these files are always treated as text
+*.txt text
+*.json text
+*.yml text
+*.yaml text
