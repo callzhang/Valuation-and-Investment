@@ -1,11 +1,10 @@
 
 # 课程大纲
 
-> **音频文件说明**: 由于GitHub文件大小限制，音频文件已移至外部存储。请通过以下方式获取：
-> - 音频文件1: [从零到精通：新手股票分析实战指南](https://drive.google.com/your-audio-link-here)
-> - 音频文件2: [股海策略激辩：基本面VS技术面](https://drive.google.com/your-audio-link-here)
-> 
-> *请将音频文件上传到Google Drive、Dropbox或其他云存储服务，并更新上述链接*
+<audio controls>
+  <source src="./从零到精通：新手股票分析实战指南（避开85_亏损陷阱，系统掌握基本面与技术面）.m4a" type="audio/mp4">
+  您的浏览器不支持 audio 元素，请下载<a href="从零到精通：新手股票分析实战指南（避开85_亏损陷阱，系统掌握基本面与技术面）.m4a">音频文件</a>收听。
+</audio>
 
 
 
